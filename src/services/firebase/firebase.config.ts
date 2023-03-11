@@ -1,8 +1,8 @@
 export const firebaseConfig = {
-  apiKey: "AIzaSyCPVkrxlHJ9Inl9tbIzr04JP9-l0Xj0wbE",
-  authDomain: "mm-front-7a6e6.firebaseapp.com",
-  projectId: "mm-front-7a6e6",
-  storageBucket: "mm-front-7a6e6.appspot.com",
-  messagingSenderId: "525952477100",
-  appId: "1:525952477100:web:89592f94ad7bcd3043fc09",
+  apiKey: "AIzaSyCD-tcQt0fZJTK-kd8Ta3WhYdhwLtWvDgk",
+  authDomain: "red-so.firebaseapp.com",
+  projectId: "red-so",
+  storageBucket: "red-so.appspot.com",
+  messagingSenderId: "1029145027533",
+  appId: "1:1029145027533:web:d30e9f94ad8c178aa81a84",
 };
